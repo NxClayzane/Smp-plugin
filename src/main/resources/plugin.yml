@@ -1,0 +1,6 @@
+name: Smp
+version: ${project.version}
+main: me.clayzane.smp.Smp
+api-version: 1.16
+authors: [ CLAYZANE ]
+description: ----
