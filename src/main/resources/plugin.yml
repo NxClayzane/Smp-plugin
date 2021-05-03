@@ -1,6 +1,10 @@
-name: Smp
+name: TheClaySmp
 version: ${project.version}
 main: me.clayzane.smp.Smp
 api-version: 1.16
 authors: [ CLAYZANE ]
 description: ----
+commands:
+  die:
+    description: The Death command == Smp Command
+    usage: /Kill
